@@ -1,0 +1,22 @@
+{
+  "name": "arc-raiders-fps-dashboard",
+  "displayName": "ARC Raiders FPS Dashboard",
+  "programType": "fps-dashboard",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Frame pacing records",
+    "Graphics profiles",
+    "Comparison notes"
+  ],
+  "topics": [
+    "arc-raiders-fps-dashboard",
+    "arc-raiders-tools",
+    "arc-raiders-menu",
+    "arc-raiders-settings",
+    "arc-raiders-configs",
+    "arc-raiders-frame-pacing-records",
+    "arc-raiders-graphics-profiles"
+  ]
+}
